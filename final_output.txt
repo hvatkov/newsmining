@@ -780,7 +780,7 @@ life
 science
 sport
 culture
-media
+science
 life
 culture
 economics
@@ -1418,7 +1418,7 @@ media
 sport
 sport
 media
-media
+culture
 life
 culture
 culture
@@ -2018,7 +2018,7 @@ sport
 sport
 life
 life
-media
+culture
 media
 media
 sport
@@ -2600,7 +2600,7 @@ culture
 culture
 economics
 economics
-forces
+science
 science
 science
 culture
@@ -4531,7 +4531,7 @@ sport
 culture
 culture
 science
-media
+science
 sport
 sport
 culture
@@ -9596,7 +9596,7 @@ science
 media
 culture
 life
-sport
+life
 science
 media
 style
@@ -9951,7 +9951,7 @@ culture
 culture
 media
 travel
-media
+life
 media
 culture
 culture
@@ -11444,7 +11444,7 @@ science
 economics
 sport
 sport
-media
+economics
 culture
 sport
 media
@@ -12030,7 +12030,7 @@ economics
 science
 culture
 culture
-media
+science
 forces
 culture
 economics
@@ -12081,7 +12081,7 @@ travel
 life
 science
 forces
-forces
+life
 science
 culture
 media
@@ -14795,6 +14795,3 @@ science
 sport
 media
 economics
-life
-economics
-forces
