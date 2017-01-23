@@ -11,14 +11,14 @@ iter = 1
 news_train_data = []
 for x in news_train:
     iter = iter + 1
-    if iter != 3513:
+    if iter != 4536:
         news_train_data.append(x[2])
 
 iter = 1
 news_train_data_target = []
 for x in news_train:
     iter = iter + 1
-    if iter != 3513:
+    if iter != 4536:
         news_train_data_target.append(x[0])
 
 count_vect = CountVectorizer()
@@ -50,7 +50,7 @@ news_test_data = []
 iter = 1
 for x in test:
     iter = iter + 1
-    if iter != 3513:
+    if iter != 4536:
         news_test_data.append(x[2])
 
 print("Receiving test dataset_target..")
@@ -58,7 +58,7 @@ iter = 1
 news_test_data_target = []
 for x in news_train:
     iter = iter + 1
-    if iter != 3513:
+    if iter != 4536:
         news_test_data_target.append(x[0])
 
 print("Testing..")
